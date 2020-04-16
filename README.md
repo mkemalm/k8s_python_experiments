@@ -2,7 +2,7 @@
 
 before begin;
 
-1. Copy your .kube/config file from your cluster.
+1. Copy your `.kube/config` file from your cluster.
 2. Export KUBECONFIG
 
 ```
