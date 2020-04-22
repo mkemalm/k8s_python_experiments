@@ -1,6 +1,6 @@
 # Kubernetes API Experiments with Python
 
-before begin;
+Before trying scripts;
 
 1. Copy your `.kube/config` file from your cluster.
 2. Export KUBECONFIG
